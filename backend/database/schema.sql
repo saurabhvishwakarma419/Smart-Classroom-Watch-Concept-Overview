@@ -1,4 +1,4 @@
--- Smart Classroom Watch Database Schema (PostgreSQL)
+ -- Smart Classroom Watch Database Schema (PostgreSQL)
 
 -- Users Table
 CREATE TABLE users (
